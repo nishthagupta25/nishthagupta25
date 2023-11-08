@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @nishthagupta25
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+- [![nishthagupta25's GitHub | Stats](https://stats.quine.sh/nishthagupta25/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nishthagupta25)
+- 
+
+<!---
+nishthagupta25/nishthagupta25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
